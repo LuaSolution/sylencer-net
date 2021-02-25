@@ -55,7 +55,7 @@ jQuery(document).ready(function ($) {
     }
   }
 
-  setInterval(updateGradient, 10)
+  setInterval(updateGradient, 80)
 
   var $main = $('#spaces-main'),
     $pages = $main.children('section.page-section'),
